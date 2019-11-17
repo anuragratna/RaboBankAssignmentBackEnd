@@ -1,0 +1,23 @@
+<records>
+  <record reference="130488">
+    <accountNumber>NL69ABNA04336473676</accountNumber>
+    <description>Ticketsd for Peter Theuß</description>
+    <startBalance>10</startBalance>
+    <mutation>20</mutation>
+    <endBalance>30</endBalance>
+  </record>
+  <record reference="130488">
+    <accountNumber>NL69ABNA04336473676</accountNumber>
+    <description>Ticketsd for Peter Theuß</description>
+    <startBalance>100</startBalance>
+    <mutation>20</mutation>
+    <endBalance>80</endBalance>
+  </record>
+    <record reference="130498">
+    <accountNumber>NL69ABNA04336473676</accountNumber>
+    <description>Ticketsd for TESTER</description>
+    <startBalance>10.5</startBalance>
+    <mutation>9.9</mutation>
+    <endBalance>1.6</endBalance>
+  </record>
+</records>
